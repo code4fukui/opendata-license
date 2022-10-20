@@ -9,4 +9,4 @@
 ## 表記方法 / Usage
 
 - 本データは、[オープンデータライセンス](https://github.com/code4fukui/opendata-license/)に従ってご利用いただけます。
-- （出展表記例 [オープンデータライセンス](https://github.com/code4fukui/opendata-license/) by 〇〇（データ出展元））
+- 出展表記例: [オープンデータライセンス](https://github.com/code4fukui/opendata-license/) by 〇〇（データ出展元）
