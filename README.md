@@ -1,6 +1,6 @@
 # オープンデータライセンス / opendata-license
 
-オープンデータライセンスとは、下記いずれかに従って使用可能な、オープンデータ用のライセンスです
+オープンデータライセンスとは、下記のいずれか、または、複数のライセンスに従って使用可能な、オープンデータ用のライセンスです
 
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [ODC-By 1.0](https://opendatacommons.org/licenses/by/1-0/)
